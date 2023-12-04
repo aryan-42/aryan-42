@@ -25,6 +25,18 @@
 <a href="https://twitter.com/Singh_Aryan_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aryan-42&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
-<br>
-<br>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aryan-42&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=614" alt="Github Streak">
+</p>
+
+<table>
+<td>
+<tr>
+<img src="https://api.githubtrends.io/user/svg/aryan-42/langs?time_range=one_year&theme=dark"></img>
+&#160;                                   
+</tr>
+<tr>
+<img src="https://api.githubtrends.io/user/svg/aryan-42/repos?time_range=one_year&theme=dark"></img>
+</tr>
+</td>
+</table>
