@@ -20,9 +20,9 @@
 <p align= "center">
  <b>Let's Connect 📫</b>
  <br>
-<a href="https://www.linkedin.com/in/aryan-singh-98a554230/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:aryn.snh@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://twitter.com/Singh_Aryan" target="_blank" rel="noopener noreferrer"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aryan-singh-98a554230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="mailto:aryn.snh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://twitter.com/Singh_Aryan_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=aryan-42&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak">
