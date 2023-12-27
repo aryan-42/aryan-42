@@ -3,8 +3,8 @@
 <p align= "center">     
     My name is <b> Aryan Singh</b> <br> 
     I'm a  <b>third year undergraduate</b> from <b>Harcourt Butler Technical University, Kanpur.</b>
-   <br> I am an electronics engineer and I make things for fun
-  <br> Experienced in  <b>Arduino and IoT</b>
+   <br> I am an electronics engineer and I'm exploring and learning.
+<br>
 </p>
   
 <p align="center">  
