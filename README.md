@@ -2,7 +2,7 @@
 <h1 align="center">Hello everyone! 👋 </h1>
 <p align= "center">     
     My name is <b> Aryan Singh</b> <br> 
-    I'm a  <b>third year undergraduate</b> from <b>Harcourt Butler Technical University, Kanpur.</b>
+    I'm a  <b>final year undergraduate</b> from <b>Harcourt Butler Technical University, Kanpur.</b>
    <br> I am an electronics engineer and I'm exploring and learning.
 <br>
 </p>
