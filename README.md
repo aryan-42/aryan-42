@@ -1,42 +1,29 @@
+# Hi, I'm Aryan 👋
 
-<h1 align="center">Hello everyone! 👋 </h1>
-<p align= "center">     
-    My name is <b> Aryan Singh</b> <br> 
-    I'm a  <b>final year undergraduate</b> from <b>Harcourt Butler Technical University, Kanpur.</b>
-   <br> I am an electronics engineer and I'm exploring and learning.
-<br>
-</p>
-  
-<p align="center">  
-<h3 align="center"><b>Languages and Tools<b>
-<br>
-<img src="https://user-images.githubusercontent.com/87319921/131159583-60be0f3d-d25f-463f-a632-75f8f37417d1.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" height="50">
-<img src="https://user-images.githubusercontent.com/87319921/131159622-703987cf-80fc-4342-a74b-0cb957a2d58b.png" width="44" height="45">
-<img src="https://avatars.githubusercontent.com/u/379109?s=200&v=4" width="50" height="50">
-</p>
+MBA-HRM student at **XIM University** (2025–27). Before that, electronics engineering at **HBTU Kanpur**.
 
-<p align= "center">
- <b>Let's Connect 📫</b>
- <br>
-<a href="https://www.linkedin.com/in/aryan-singh-98a554230/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:aryn.snh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://twitter.com/Singh_Aryan_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+I build tools for the people side of organisations: onboarding, hiring, surveys, and the
+everyday admin of a student batch. Mostly Next.js, TypeScript and Supabase, shipped on Vercel.
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aryan-42&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=614" alt="Github Streak">
-</p>
+## What I've built
 
-<table>
-<td>
-<tr>
-<img src="https://api.githubtrends.io/user/svg/aryan-42/langs?time_range=one_year&theme=dark"></img>
-&#160;                                   
-</tr>
-<tr>
-<img src="https://api.githubtrends.io/user/svg/aryan-42/repos?time_range=one_year&theme=dark"></img>
-</tr>
-</td>
-</table>
+| Project | What it is | Stack |
+|---|---|---|
+| [hrm-timetable](https://github.com/aryan-42/hrm-timetable) | Personalised class timetable for my MBA batch: Google sign-in, attendance tracking against the 80% rule, exam schedules, `.ics` export, and approver-reviewed schedule updates | HTML · Supabase · Apps Script |
+| [jaguar-house](https://github.com/aryan-42/jaguar-house) | Gamified employee onboarding: drive through a 3D campus, clear checkpoint modules, and see results on an admin dashboard | Next.js · React Three Fiber · Framer Motion |
+| [atomberg-talentflow](https://github.com/aryan-42/atomberg-talentflow) · [live](https://atomberg-talentflow.vercel.app) | Recruiting workspace: open roles, generate boolean search strings, score candidates | Next.js · TypeScript |
+| [arsenal](https://github.com/aryan-42/arsenal) · [live](https://arsenal-gamma-seven.vercel.app) | A commonplace book: send links, books and ideas to a Telegram bot, get drafted highlights and connections, and keep it all as plain markdown in Obsidian | Next.js · Supabase · Telegram |
+| [pulse-survey](https://github.com/aryan-42/pulse-survey) · [live](https://pulse-survey.vercel.app) | Mobile-first pulse survey with multiple admins and pending-response tracking | Firebase |
+
+**From my engineering years:** [prosthetic-arm](https://github.com/aryan-42/prosthetic-arm),
+[pid-lfr](https://github.com/aryan-42/pid-lfr) (PID line follower),
+[rfid-iot-attendance-system](https://github.com/aryan-42/rfid-iot-attendance-system), and
+[8085](https://github.com/aryan-42/8085-simulations) / [8086](https://github.com/aryan-42/8086-simulations) assembly.
+
+## Tools
+
+`TypeScript` `Next.js` `React` `Tailwind` `Supabase` `Firebase` `Vercel` `Google Apps Script` `C++ / Arduino` `MATLAB`
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/aryan-singh-98a554230/) · [Email](mailto:aryn.snh@gmail.com) · [X / Twitter](https://twitter.com/Singh_Aryan_)
